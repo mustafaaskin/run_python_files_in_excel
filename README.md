@@ -5,6 +5,7 @@ An excel macro file with extention xlsm runs your python files which you indicat
 You have to show directory of your python exe file kept .
 
 Steps to follow
+
 1.open cmd
 
 2.where python
@@ -23,13 +24,21 @@ Türkçe
 
 Dosyayı açtından sonra takip edilmesi gereken adımlar
 
+
 1.Komut ekranını açın.
+
 2.Komut ekranınına where python yazın
+
 3.Çıkan python.exe uzantılı dosya dizininin adresini alın.
+
 4.A1 hücresine kendi Python.exe dosya pathinizi ekleyin.
+
 5.E sütunundaki ilgili alanlara çalıştırmak istediğiniz python dosyalarının adreslerini yapıştırın.
+
 6.Kırmızı kutulu hücrelere python adresini yapıştırmalısınız. Yanındaki buton kodu otomatik çalıştırır.
+
 7.Çalıştırmak istediğiniz python dosyasının yanındaki butona basın. Otomatik çalışması gerekir.
+
 
 
 
