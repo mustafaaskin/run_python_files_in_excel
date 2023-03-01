@@ -6,11 +6,17 @@ You have to show directory of your python exe file kept .
 
 Steps to follow
 1.open cmd
+
 2.where python
+
 3.take path
+
 4.Paste A1 the path directory of file and file name
+
 5.Paste the cells in E column the path directory of  python file which you want to run.
+
 6.Python file address have to be in red boxes. Next button of red boxes will run the python code automatically
+
 7.Click the button
 
 Türkçe
