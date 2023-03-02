@@ -1,4 +1,6 @@
 # run_python_files_in_excel
+RUN_PY.xlsm
+
 An excel file runs your python files.
 
 An excel macro file with extention xlsm runs your python files which you indicated the files' directories.
@@ -21,6 +23,8 @@ Steps to follow
 7.Click the button
 
 Türkçe
+
+CALISTIR_PY_1.xlsm
 
 Dosyayı açtından sonra takip edilmesi gereken adımlar
 
